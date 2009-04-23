@@ -1,0 +1,21 @@
+Local geek association PROGMATICA (http://progmatica.com) requires its pledges
+to meet three basic requirements:
+
+	1.) You must live in Maine.
+	2.) You must work with computer technology.
+	3.) You must write your own Turing Test, as well as another program which can
+	    pass it, in the programming language of your choice.
+
+(Presumably all of the above are flexible, as they are a very understanding group.
+Just don't cross them.)
+
+Anyway, what you see here is my foolproof Turing Test submission, as well as the
+client program which will clearly demonstrate that it is of human origin. To run
+it, you need a Python 2.x interpretter, and the folowing modules:
+
+	* PyCATCHA module (svn from http://svn.navi.cx/misc/trunk/pycaptcha/)
+	* PIL module (install from http://www.pythonware.com/products/pil/)
+
+Remember: Be excellent to each other. And... party on, dudes.
+
+	~ewall 23 April 2009
